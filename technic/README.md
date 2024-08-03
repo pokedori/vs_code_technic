@@ -14,3 +14,7 @@
 
 アウトラインは、オブジェクトの構造表示が出来るのでソースコード全体を見るのに便利です。
 ![アウトライン](https://github.com/user-attachments/assets/cd629f44-105f-4daa-9603-b016164755ba)
+
+## GitHubのCopilot
+
+以下のようにview画面のリンクを出してくれる。
